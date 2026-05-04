@@ -13,9 +13,9 @@
 - ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
 - 1C
 - Pascal
-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
 ### Текущие интересы 🏡 :
 - Изучение новых языков
 - Осноение уже изученого
